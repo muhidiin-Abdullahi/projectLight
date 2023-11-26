@@ -1,0 +1,22 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.lightBox{
+   margin-top: 50px;
+   width: 300px;
+   height: 300px;
+   border-radius: 50%;
+   border:  2px black solid;
+}
+button{
+   width: 100px;
+   height: 30px;
+   margin-top:20px ;
+   margin-left: 20px;
+   font-size: 22px;
+}
+.box-parent{
+   display: flex;
+   justify-content: center;
+}
